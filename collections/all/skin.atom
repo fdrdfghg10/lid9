@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://skinboo.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://skinboo.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://skinboo.shop/collections/all/beauty.atom"/>
+  <title>skinboo</title>
+  <updated>2020-05-23T15:14:49+10:00</updated>
+  <author>
+    <name>skinboo</name>
+  </author>
+  <entry>
+    <id>https://skinboo.shop/products/4935918190651</id>
+    <published>2020-05-23T15:14:49+10:00</published>
+    <updated>2020-05-23T15:14:49+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://skinboo.shop/products/silicone-facial-massage-cleanser"/>
+    <title>Silicone Facial Massage Cleanser</title>
+    <s:type></s:type>
+    <s:vendor>skinboo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0377/0482/6939/products/product-image-1415716273.jpg?v=1590211607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>skinboo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="detailmodule_text" style="box-sizing: content-box;"> </p>
+<p><strong>🌸 Say Goodbye to Dry &amp; Oily Skin!</strong></p>
+<p><b>🌟</b>Our Tested Quality <strong>Silicone Facial Massage Cleanser</strong> is designed to show results in one week! Soothing skin and helping <strong>replenish </strong>features, you can rest assure you can <strong>cleanse</strong> without any pain or sensitivity.</p>
+<p> </p>
+<p>Tired of cleansing and not seeing results? This will help you!</p>
+<p><br><br><b>👍🏼 How it works: </b><br><br><b>✅ Drop 4-6 drops of water</b></p>
+<p><b>✅ Press the mode button for about 5-6 seconds to automatically bubble.</b><br><b></b></p>
+<p><b>✅ Apply on face to sooth skin </b></p>
+<p><b>✅ Scrub away!</b></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://skinboo.shop/products/4935918190651</id>
+      <title>Aqua</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31056243-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://skinboo.shop/products/4935918190651</id>
+      <title>Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31056243-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://skinboo.shop/products/4935918190651</id>
+      <title>Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31056243-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://skinboo.shop/products/4935918190651</id>
+      <title>Green</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31056243-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://skinboo.shop/products/4935910293563</id>
+    <published>2020-05-23T15:11:52+10:00</published>
+    <updated>2020-05-23T15:11:52+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://skinboo.shop/products/teeth-whitening-kit-with-led-light"/>
+    <title>Teeth Whitening Kit w/ LED Light</title>
+    <s:type>product</s:type>
+    <s:vendor>skinboo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0377/0482/6939/products/product-image-1254588408.jpg?v=1590210906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>skinboo<br>
+        <strong>Type: </strong>product<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🌟<strong>Top Quality Teeth Whitening Kit</strong><br><br>🦷 Our Teeth Whitening Kit is designed to show results in <strong>one week</strong>! Formulated with active whitening ingredients so you can rest assure your teeth will <strong>whiten and brighten without any pain or sensitivity.</strong><br><br> <br><br><strong>👍🏼 How it works:</strong> <br><br>✅ Attach the LED light to the mouth tray.<br>✅ Apply gel to the top and bottom sides of the mouth tray.<br>✅ Pop everything in and whiten for 10 minutes.<br>✅ Spit and rinse after use, and repeat for 5 applications.<br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty</s:tag>
+    <s:tag>teeth</s:tag>
+    <s:variant>
+      <id>https://skinboo.shop/products/4935910293563</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>19144446-10pcs-whitening-gel</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://skinboo.shop/products/4927886917691</id>
+    <published>2020-05-21T21:18:27+10:00</published>
+    <updated>2020-05-21T21:18:27+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://skinboo.shop/products/blackheadvacuum"/>
+    <title>🌸 SKINBOO VACUUM: Skin Cleaner</title>
+    <s:type></s:type>
+    <s:vendor>skinboo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0377/0482/6939/products/3_Blackhead-Remover-Face-Deep-Nose-Cleaner-T-Zone-Pore-Acne-Pimple-Removal-Vacuum-Suction-Facial-Diamond.jpg?v=1590141351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>skinboo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Reinvent your facial features by removing stubborn blackheads and blemishes at home! <span>🌸</span></strong></p>
+<p><strong>_</strong></p>
+<p>✅ Effectively removes blackheads</p>
+<p>✅ Vacuum suction cleans oil from pores</p>
+<p>✅ Increase circulation in the skin</p>
+<p>✅ Reduce acne and dark spots</p>
+<p>✅ Gently exfoliates &amp; remove dead skin cells</p>
+<p>✅ Micro-massages to fight fine lines &amp;wrinkles</p>
+<p>✅ 4 Different heads &amp; 5 levels of suction strength</p>
+<p>_</p>
+<p>🌸 Refresh your skin and appreciate visible cleanliness of your pores, skin tone and fine lines over time using the <strong>SKINBOO Vacuum</strong>.</p>
+<p>✨ No more pressing down and scarring skin, this blackhead vacuum gently exfoliates dead skin cells and dislodges the buildup caused by oil and dirt to help clear your pores to enhance clean skin.</p>
+<p>💕 Are you tired of dead skin? We have your solution! Your skin will never look better, all at the comfort of your home. </p>
+<p>😻 Suitable for most skin types with four interchangeable heads and five suction intensities to customise your experience:</p>
+<p><strong>Features:</strong></p>
+<p><strong>💎<span> </span></strong><strong>Diamond head:</strong> gently exfoliates to remove dead skin and open pores</p>
+<p><strong>⭕️<span> </span></strong><strong>Big circular head:</strong> strong suction removes blackheads and promotes blood and lymphatic circulation for more luminous skin</p>
+<p><strong>🔅<span> </span></strong><strong>Small circular head:</strong> gentle suction removes blackheads on sensitive areas, such as around the eyes</p>
+<p><strong>🔆<span> </span></strong><strong>Oval head:</strong> micro-massages to help prevent fine lines and wrinkles, especially around sensitive areas such as eyes and mouth</p>
+<p>📦 FREE FAST WORLDWIDE SHIPPING 📦 </p>
+<p><br></p>
+<p><strong>Highlights:</strong></p>
+<ul>
+<li>4 Interchangeable heads</li>
+<li>5 Suction intensities</li>
+<li>Convenient USB charging</li>
+<li>Portable, handheld design with LCD screen</li>
+</ul>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0377/0482/6939/files/Pore_Vacuum_480x480_1024x1024_b8dfcf9b-7e4d-44b7-95e1-657d5ab003e2_480x480.gif?v=1590140623" alt=""></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty</s:tag>
+    <s:tag>skin</s:tag>
+    <s:tag>skincare</s:tag>
+    <s:variant>
+      <id>https://skinboo.shop/products/4927886917691</id>
+      <title>Default Colour</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22041914-gold-china</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>
